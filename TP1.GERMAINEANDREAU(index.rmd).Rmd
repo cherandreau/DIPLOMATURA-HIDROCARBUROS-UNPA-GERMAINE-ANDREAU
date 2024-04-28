@@ -1,0 +1,103 @@
+---
+title: "CV Germaine Andreau"
+author: "Germaine Andreau"
+date: "2024-04-15"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curriculum Vitae - Germaine Andreau
+
+
+### Datos Personales
+
+![Germaine Andreau](fotocvgermaine.jpg)
+
+
+
+
+
+## Sobre mi
+
+Me considero una persona comprometida, organizada y responsable . Cuento con actitud proactiva, capacidad analítica y buenas habilidades comunicativas.
+Me interesa incorporar nuevos conocimientos constantemente.
+
+
+
+
+
+
+
+## Formación
+
+
+| Año de Egreso | Titulo | Institución |
+|:-------:|:------:|:-----------:|
+| 2016 | Ingeniera Industrial | Universidad Nacional de La Plata |
+| 2009 | Bachiller modalidad Humanidades y Cs Sociales | Instituto M Belgrano |
+
+
+
+## Experiencia Laboral
+
+
+
+
+
+
+### Programadora en Logística Terrestre
+
+**YPF SA - Ensenada, Provincia de Buenos Aires, Argentina**
+
+*mar. 2022 - actualidad* 
+
+- Ruteo de camiones cisterna de crudo y asfalto.
+- Guardias del servicio de GLP.
+- Control de disponibilidades.
+- Relevamiento y control de la flota.
+- Comunicación constante con transportes y plantas.
+
+
+
+
+
+
+### Analista de Logística Operativa
+
+**CAMMESA - CABA, Argentina**
+
+*sept. 2016 - ene. 2021* 
+
+- Control de Flota de camiones cisterna.
+- Trazado y Administración de Hojas de Ruta.
+- Control en Plantas de Almacenamiento y Despacho de combustibles.
+- Auditorias de control de carga y descarga de camiones.
+- Control de pago a transportistas e inspectores.
+- Ordenes de servicio a proveedores.
+- Pasante en Logística de Combustibles.
+
+
+
+
+## Cursos y herramientas
+
+
+- Curso de Excel para Ingenieros Industriales
+- Diseño Asistido en AutoCAD
+- Recursos humanos y selección de personal
+- SAP
+- Inglés intermedio
+- Manejo de office
+
+
+
+
+## Contacto
+
+- Correo: <cherandreau@gmail.com>
+- Celular: ***2213640327***
